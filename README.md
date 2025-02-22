@@ -1,16 +1,19 @@
-## Hi there 👋
+## Oi, eu sou o Gustavo 😉
 
-<!--
-**Gustavo-c-s/Gustavo-c-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" justifyContent="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Gustavo-c-s&theme=neon-dark&border_width=0&border_radius=15&hide_border=true" alt="My github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo-c-s&layout=compact&theme=radical" alt="My top languages" />
+</div>
 
-Here are some ideas to get you started:
+## 🪪About Me
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,python,react,html,css,js)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+</p>
+
+<p>
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-071903265/)](https://www.linkedin.com/in/gustavo-c-s-/)
+
+
